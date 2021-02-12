@@ -1,0 +1,138 @@
+<style>
+.anita{
+         max-width: 100%;
+         height:20%;}
+ .div34 {
+background-color: rgba(255,255,255,0.5) ;
+height: 70PX; }
+html{
+  scroll-behavior: smooth;
+}
+p
+{
+  text-align: justify;  
+}
+
+.ancla
+{
+  position: fixed;
+}
+
+.cuadrito{
+  width: 140px;
+  height: 40px;
+  padding-left: 30px;
+  padding-top: 10px;
+  background-color: white;
+  font-size: medium;
+}
+  .cuadrop1 {
+position: relative;
+top: 10%;
+left: 20%;
+width: 50%;
+height: 40%;
+background: white;
+border-radius : 12px;
+border: 3px solid #A2D9CE;
+
+}
+.img1{
+  position: absolute;
+  right: 660px;
+  width: 400px;
+  height: 250px;
+  top: 5px;
+}
+.letra1e {
+position: static;
+top: 3%;
+left: -15%;
+font-family: Century Gothic;
+color: #26A711 }
+
+
+.cuadrop2 {
+position: relative;
+top: 10%;
+left: 20%;
+width: 50%;
+height: 40%;
+background: white;
+border-radius : 12px;
+border: 3px solid #A2D9CE;
+}
+
+.letra2b {
+position: static;
+top: 3%;
+left: -15%;
+font-family: Century Gothic;
+color: #26A711 }
+
+.img2{
+  position: absolute;
+  right: 680px;
+  width: 290px;
+  height: 240px;
+  top: -15px;
+}
+
+
+
+
+.cuadrop3 {
+position: relative;
+top: 10%;
+left: 20%;
+width: 50%;
+height: 40%;
+background: white;
+border-radius : 12px;
+border: 3px solid #A2D9CE;
+}
+
+.letra3b {
+position: static;
+top: 3%;
+left: -15%;
+font-family: Century Gothic;
+color: #26A711 }
+
+.img3{
+  position: absolute;
+  right: 680px;
+  width: 300px;
+  height: 240px;
+  top: -15px;
+}
+
+
+.cuadrop4 {
+position: relative;
+top: 10%;
+left: 20%;
+width: 50%;
+height: 40%;
+background: white;
+border-radius : 12px;
+border: 3px solid #A2D9CE;
+}
+
+.letra4b {
+position: static;
+top: 3%;
+left: -15%;
+font-family: Century Gothic;
+color: #26A711 }
+
+.img4{
+  position: absolute;
+  right: 680px;
+  width: 400px;
+  height: 240px;
+  top: -15px;
+}
+
+a:hover {
+  color: #52BE80;}
